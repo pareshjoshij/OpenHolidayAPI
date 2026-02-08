@@ -59,13 +59,8 @@ curl -X GET https://worldholidays.xyz/api/nation/IN/en_IN/2025.json
 #### JavaScript (Fetch)
 ```javascript
 fetch('https://worldholidays.xyz/api/nation/IN/en_IN/2025.json')
-  .then(response => response.json())
-  .then(holidays => {
-    holidays.forEach(holiday => {
-      console.log(`${holiday.date}: ${holiday.name}`);
-    });
-  })
-  .catch(error => console.error('Error:', error));
+  .then(res => res.json())
+  .then(data => console.log(data));
 ```
 
 #### Python
