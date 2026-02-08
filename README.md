@@ -20,7 +20,8 @@ Whether you are building a scheduling platform, training an AI model, or just ne
 
 <div align="center">
   
-![Open Holiday API _ WorldHolidays xyz - Google Chrome 08-02-2026 10_19_07 AM (2)](https://github.com/user-attachments/assets/7fd74601-d89c-4527-a3d6-d101f263b535)
+![Open Holiday AP](https://github.com/user-attachments/assets/9386fe18-9ebe-43bf-b038-ff8a0f4a9fb8)
+
 
 
 </div>
